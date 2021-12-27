@@ -2,6 +2,8 @@
 
 Este é o resultado da landing page do Balle Bot 🤖
 
+Para visualizar o site: <a href="https://henriquecontini.github.io/BalleBot/">clique aqui</a>
+
 ### Modificações 🔧
 Fiz algumas modificações, como por exemplo:
 - Versão mobile e tablet
